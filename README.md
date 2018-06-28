@@ -10,7 +10,8 @@ You will need:-
 </ul>
 
 ###Make connections as below:-
- <img src="connection.jpg" height="42" width="42" alt ="Connections" >
+<br>
+ <img src="connection.jpg" height="300" width="300" alt ="Connections" style="image-orientation: 90deg;" >
 
 #### Understanding:-
  <ul>
