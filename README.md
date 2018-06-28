@@ -1,6 +1,6 @@
 # PHT ( Predective health terminal )
 Note:- This is a part of the project and is not the entire project
-<b> This is a hand crafted code without using library functions wich aims to finding the pulse rate of a human being.
+<b> This is a hand crafted code without using library functions wich aims to finding the pulse rate of a human being.</b>
 
 ##Getting Started:-
 You will need:-
@@ -10,7 +10,7 @@ You will need:-
 </ul>
 
 ###Make connections as below:-
- <img src="connections.jpg" alt ="system design model">
+ <img src="connection.jpg" alt ="Connections">
 
 #### Understanding:-
  <ul>
