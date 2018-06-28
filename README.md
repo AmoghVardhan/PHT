@@ -2,14 +2,14 @@
 Note:- This is a part of the project and is not the entire project
 <b> This is a hand crafted code without using library functions wich aims to finding the pulse rate of a human being.</b>
 
-##Getting Started:-
+## Getting Started:-
 You will need:-
 <ul><li> Arduino board</li>
   <li> pulse rate sensor</li>
   <li> few red and green led</li>
 </ul>
 
-###Make connections as below:-
+### Make connections as below:-
 <br>
  <img src="connection.jpg" height="300" width="300" alt ="Connections" style="image-orientation: 90deg" >
 <br>
