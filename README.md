@@ -11,7 +11,7 @@ You will need:-
 
 ###Make connections as below:-
 <br>
- <img src="connection.jpg" height="300" width="300" alt ="Connections" style="image-orientation: 90deg;" >
+ <img src="connection.jpg" height="300" width="300" alt ="Connections" style="image-orientation: 90deg" >
 
 #### Understanding:-
  <ul>
