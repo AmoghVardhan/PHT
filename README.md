@@ -10,7 +10,7 @@ You will need:-
 </ul>
 
 ###Make connections as below:-
- <img src="connection.jpg" alt ="Connections">
+ <img src="connection.jpg" height="42" width="42" alt ="Connections" >
 
 #### Understanding:-
  <ul>
